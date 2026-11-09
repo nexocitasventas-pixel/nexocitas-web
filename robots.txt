@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nexocitasventas-pixel.github.io/nexocitas-web/sitemap.xml
